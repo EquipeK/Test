@@ -5,9 +5,13 @@
       <title>Installation et Mise en place de Git</title>
     </head>
     <body>
+<<<<<<< HEAD
 	licornes    
+=======
+	licorne    
+>>>>>>> add text licorne
       <h1>Installation et Mise en place de Git</h1>
-j'essaye de faire de la merde
+
       <h2>Installation de git</h2> 
       <a href="http://msysgit.github.io " target="_blank">lien d'installation : </a>
 
