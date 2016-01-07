@@ -1,0 +1,5 @@
+*ERROR* 	2016/01/05 - 18:40:37: Erreur SQL sur la requête <i>Toutes les parties d'un index PRIMARY KEY doivent être NOT NULL; Si vous avez besoin d'un NULL dans l'index, utilisez un index UNIQUE</i>
+*ERROR* 	2016/01/05 - 18:42:29: Erreur SQL sur la requête <i>Toutes les parties d'un index PRIMARY KEY doivent être NOT NULL; Si vous avez besoin d'un NULL dans l'index, utilisez un index UNIQUE</i>
+*ERROR* 	2016/01/05 - 18:46:49: Erreur SQL sur la requête <i>Toutes les parties d'un index PRIMARY KEY doivent être NOT NULL; Si vous avez besoin d'un NULL dans l'index, utilisez un index UNIQUE</i>
+*ERROR* 	2016/01/05 - 18:54:31: Erreur SQL sur la requête <i>Toutes les parties d'un index PRIMARY KEY doivent être NOT NULL; Si vous avez besoin d'un NULL dans l'index, utilisez un index UNIQUE</i>
+*ERROR* 	2016/01/05 - 19:06:46: Erreur SQL sur la requête <i>Valeur par défaut invalide pour 'last_connection_date'</i>
